@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "student-question-cluster-lesson-a",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:00:00Z",
+    "text": "学生问题归纳台需要保留问题簇和原文依据。",
+    "context": "教研演练"
+  },
+  {
+    "record_id": "student-question-cluster-lesson-b",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:05:00Z",
+    "text": "教师复核问题簇时应查看课程语境。",
+    "context": "课堂练习"
+  }
+]
